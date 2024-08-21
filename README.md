@@ -1,7 +1,7 @@
 ---
 # Json-for-shaheen
 ---
-Playground for the game json file content before deploying to shaheen codebase
+Playground for shaheen game json file content before deploying to shaheen codebase
 
 Open a pull request if you have something that isn't here, you can... it's just json :)
 
